@@ -1,0 +1,399 @@
+#torrents #torrentbrowse #torrent_table td.center.cats_col >div[title=""][class=""],
+.\33 do,
+.amigacd32,
+.amstradcpc,
+.android,
+.applebandaipippin,
+.appleii,
+.apps,
+.atari2600,
+.atari5200,
+.atari7800,
+.atarijaguar,
+.atarilynx,
+.atarist,
+.bandaiwonderswan,
+.bandaiwonderswancolor,
+.boardgame,
+.cardgame,
+.casioloopy,
+.casiopv-1000,
+.colecovision,
+.commodore128,
+.commodore64,
+.commodoreamiga,
+.commodoreplus-4,
+.commodorevic-20,
+.creativision,
+.dos,
+.dreamcast,
+.dsiware,
+.dvd,
+.ebook,
+.emersonarcadia2001,
+.entexadventurevision,
+.epochsupercasettevision,
+.ex-bgcollections,
+.ex-bgfullsets,
+.ex-bggoldens,
+.fairchildchannelf,
+.funtechsuperacan,
+.game\.com,
+.game.com,
+.gameboy,
+.gameboyadvance,
+.gameboycolor,
+.gamecom,
+.gamegear,
+.gameparkgp32,
+.generalcomputervectrex,
+.gizmondo,
+.hartungamemaster,
+.hartunggamemaster,
+.intellivision,
+.interactivedvd,
+.ios,
+.linux,
+.mac,
+.magnavox-phillipsodyssey,
+.mastersystem,
+.mattelintellivision,
+.megadrive,
+.memotechmtx,
+.milesgordonsamcoupe,
+.miniaturewargames,
+.msx,
+.msx2,
+.music,
+.necpc-fx,
+.necpc-98,
+.necsupergrafx,
+.necturbografx-16,
+.nes,
+.newnintendo3ds,
+.newnintendo3dsvc,
+.nintendo3ds,
+.nintendo3dsvc,
+.nintendo64,
+.nintendods,
+.nintendogamecube,
+.ouya,
+.nokian-gage,
+.philipscd-i,
+.penandpaperrpg,
+.philipsvideopac,
+.philipsvideopac\+,
+.phonepda,
+.pico,
+.playstation1,
+.playstation2,
+.playstation3,
+.playstation4,
+.playstationportable,
+.playstationvita,
+.pokemonmini,
+.psonpsp,
+.psponps3,
+.rcastudioii,
+.retro-other,
+.saturn,
+.sg-1000,
+.sharpx1,
+.sharpx68000,
+.snkneogeo,
+.snkneogeopocket,
+.snes,
+.supernes,
+.switch,
+.taitotypex,
+.tandycolorcomputer,
+.tangerineoric,
+.thomsonmo5,
+.turbografx,
+.vectrex,
+.virtualboy,
+.v\.smile,
+.watarasupervision,
+.wii,
+.wiiu,
+.wiiuvc,
+.wiivc,
+.wiiware,
+.windows,
+.windows95,
+.windowsxp,
+.wonderswan,
+.xbla,
+.xbox,
+.xbox360,
+.xboxon360,
+.zxspectrum,
+.cats_guides,
+.cats_ebooks,
+.cats_applications,
+.cats_ost {
+    background-size: 28px;
+    height:28px;
+    width: 28px;
+    background-repeat: no-repeat !important;
+    background-position: center !important;}
+
+#torrents #torrentbrowse #torrent_table td.center.cats_col >div[title=""][class=""] {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/missing.svg);}
+.\33 do {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/3do.svg);}
+.amigacd32 {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/amigacd32.svg);}
+.amstradcpc {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/amstradcpc.svg);}
+.android {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/android.svg);}
+.applebandaipippin {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/applebandaipippin.svg);}
+.apps {
+    background: url();}
+.atari2600 {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/atari2600.svg);}
+.atari5200 {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/atari5200.svg);}
+.atari7800 {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/atari7800.svg);}
+.atarijaguar {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/atarijaguar.svg);}
+.atarilynx {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/atarilynx.svg);}
+.atarist {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/atarist.svg);}
+.bandaiwonderswan,
+.wonderswan {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/bandaiwonderswan.svg);}
+.bandaiwonderswancolor {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/bandaiwonderswancolor.svg);}
+.boardgame {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/boardgame.svg);}
+.cardgame {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/cardgame.svg);}
+.casioloopy {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/casioloopy.svg);}
+.casiopv-1000 {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/casiopv-1000.svg);}
+.colecovision {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/colecovision.svg);}
+.commodore128 {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/commodore128.svg);}
+.commodore64 {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/commodore64.svg);}
+.commodoreamiga {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/commodoreamiga.svg);}
+.commodoreplus-4 {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/commodoreplus-4.svg);}
+.commodorevic-20 {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/commodorevic-20.svg);}
+.creativision {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/creativision.svg);}
+.dos {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/dos.svg);}
+.dreamcast {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/dreamcast.svg);}
+.dsiware {
+    background: url();}
+.dvd {
+    background: url();}
+.emersonarcadia2001 {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/emersonarcadia2001.svg);}
+.entexadventurevision {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/entexadventurevision.svg);}
+.epochsupercasettevision {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/epochsupercasettevision.svg);}
+.ex-bgcollections {
+    background: url();}
+.ex-bgfullsets {
+    background: url();}
+.ex-bggoldens {
+    background: url();}
+.fairchildchannelf {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/fairchildchannelf.svg);}
+.funtechsuperacan {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/funtechsuperacan.svg);}
+.game\.com,
+.game.com,
+.gamecom {
+    background-image: url(https://cdn.jsdelivr.net/gh/trustless-zz/elephant/icon/gamecom56.png);}
+.gameboy {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/gameboy.svg);}
+.gameboyadvance {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/gameboyadvance.svg);}
+.gameboycolor {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/gameboycolor.svg);}
+.gamegear {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/gamegear.svg);}
+.gameparkgp32 {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/gameparkgp32.svg);}
+.generalcomputervectrex {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/generalcomputervectrex.svg);}
+.gizmondo {
+    background-image: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/gizmondo.svg);}
+.hartungamemaster,
+.hartunggamemaster {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/hartunggamemaster.svg);}
+.mattelintellivision,
+.intellivision {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/mattelintellivision.svg);}
+.interactivedvd {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/interactivedvd.svg);}
+.ios {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/ios.svg);}
+.linux {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/linux.svg);}
+.mac {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/mac.svg);}
+.magnavox-phillipsodyssey {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/magnavox-phillipsodyssey.svg);}
+.mastersystem {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/mastersystem.svg);}
+.megadrive {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/megadrive.svg);}
+.memotechmtx {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/memotechmtx.svg);}
+.milesgordonsamcoupe {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/milesgordonsamcoupe.svg);}
+.miniaturewargames {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/miniaturewargames.svg);}
+.msx {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/msx.svg);}
+.msx2 {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/msx2.svg);}
+.music,
+.cats_ost {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/music.svg);}
+.necpc-fx {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/necpc-fx.svg);}
+.necpc-98 {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/necpc-98.svg);}
+.necsupergrafx {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/necsupergrafx.svg);}
+.necturbografx-16 {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/necturbografx-16.svg);}
+.nes {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/nes.svg);}
+.newnintendo3ds {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/newnintendo3ds.svg);}
+.newnintendo3dsvc {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/newnintendo3ds.svg);}
+.nintendo3ds {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/nintendo3ds_dark.svg);}
+.nintendo3dsvc {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/nintendo3ds_dark.svg);}
+.nintendo64 {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/nintendo64.svg);}
+.nintendods {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/nintendods.svg);}
+.nintendogamecube {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/nintendogamecube.svg);}
+.nokian-gage {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/nokian-gage.svg);}
+.ouya {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/ouya2.svg);}
+.penandpaperrpg {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/penandpaperrpg.svg);}
+.philipsvideopac {
+    background: url();}
+.philipsvideopac\+ {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/philipsvideopac+.svg);}
+.philipscd-i {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/philipscd-i.svg);}
+.phonepda {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/phonepda.svg);}
+.pico {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/pico.svg);}
+.playstation1 {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/playstation.svg);}
+.playstation2 {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/playstation2.svg);}
+.playstation3 {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/playstation3.svg);}
+.playstation4 {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/playstation4.svg);}
+.playstationportable {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/playstationportable.svg);}
+.playstationvita {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/playstationvita.svg);}
+.pokemonmini {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/pokemonmini.svg);}
+.psonpsp {
+    background: url();}
+.psponps3 {
+    background: url();}
+.rcastudioii {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/rcastudioii.svg);}
+.retro-other {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/retro-other.svg);}
+.saturn {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/saturn.svg);}
+.sg-1000 {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/sg-1000.svg);}
+.sharpx1 {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/sharpx1.svg);}
+.sharpx68000 {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/sharpx68000.svg);}
+.snkneogeo {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/snkneogeo.svg);}
+.snkneogeopocket {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/snkneogeopocket.svg);}
+.snes,
+.supernes {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/snes.svg);}
+.switch {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/switch.svg);}
+.taitotypex {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/taitotypex.svg);}
+.tandycolorcomputer {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/tandycolorcomputer.svg);}
+.tangerineoric {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/tangerineoric.svg);}
+.thomsonmo5 {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/thomsonmo5.svg);}
+.turbografx {
+    background: url();}
+.vectrex {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/vectrex.svg);}
+.virtualboy {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/virtualboy.svg);}
+.watarasupervision {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/watarasupervision.svg);}
+.wii {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/wii.svg);}
+.wiiu {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/wiiu.svg);}
+.wiiuvc {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/wiiu.svg);}
+.wiivc {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/wii.svg);}
+.wiiware {
+    background: url();}
+.windows {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/windows.svg);}
+.windows95 {
+    background: url();}
+.windowsxp {
+    background: url();}
+.xbla {
+    background: url();}
+.xbox {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/xbox.svg);}
+.xbox360 {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/xbox360.svg);}
+.xboxon360 {
+    background: url();}
+.v\.smile {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/v.smile_dark.svg);}
+.zxspectrum {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/zxspectrum.svg);}
+.cats_guides,
+.cats_ebooks,
+.ebook {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/ebook.svg);}
+.cats_applications {
+    background: url(https://cdn.jsdelivr.net/gh/refriedfood/css@master/applications.svg);}
+.appleii {
+    background: url(https://ptpimg.me/a9tuwc.png);}
